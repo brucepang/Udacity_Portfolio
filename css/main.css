@@ -23,12 +23,13 @@ hr {
 
 .header-subtitle {
   color: #2d3c49;
+  font-size: 30px;
 }
 
 .header-logo {
-  height:149px;
+  height: 149px;
 }
 
 .work-title {
-  color:#7d97ad;
+  color: #7d97ad;
 }
